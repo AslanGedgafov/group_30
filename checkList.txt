@@ -1,0 +1,5 @@
+1. Chech requirments
+2. Check DB
+3. Check Internet connection 
+4. Check inserted Data Types
+5. Check ......
